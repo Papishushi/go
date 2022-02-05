@@ -1,4 +1,4 @@
-module github.com/Papishushi/go/fobject
+module github.com/Papishushi/go
 
 go 1.17
 
